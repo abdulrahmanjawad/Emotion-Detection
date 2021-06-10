@@ -6,8 +6,12 @@ Make sure [Python 3](https://www.python.org/downloads/) is already installed.
 
 ## Setting up the environment
  1. Clone or download the repository on your local machine.
- 2. Within the Facial-Emotion-Recognition directory create a Virtual Python Environment with command `python -m venv emotion` where `emotion` is the name of the environment.
- 3. Activate the enviroment using the command:
+ 2. Within the Facial-Emotion-Recognition directory create a Virtual Python Environment with command:
+      ```bash
+      python -m venv emotion
+      ```
+    where `emotion` is the name of the environment.
+ 4. Activate the enviroment using the command:
       ```bash
       emotion\scripts\activate
       ```
