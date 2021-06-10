@@ -29,9 +29,9 @@ Facial Emotion Recognition [fer2013](https://www.kaggle.com/msambare/fer2013) wa
 The data consists of 48x48 pixel grayscale images of faces and has classified 7 emotions (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
     
 # Tools used:
-1. Python
-2. TensorFlow
-3. OpenCV
-4. Numpy
-5. Argsparse
+1. [Python](https://www.python.org/downloads/) 
+2. [TensorFlow](https://www.tensorflow.org/)
+3. [OpenCV](https://opencv.org/)
+4. [Numpy](https://numpy.org/)
+5. [Argparse](https://docs.python.org/3/library/argparse.html)
     
