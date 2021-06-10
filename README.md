@@ -17,7 +17,7 @@ Make sure [Python 3](https://www.python.org/downloads/) is already installed.
       ```
       
 ## Using the the detector on images
- 1. Use `cd` command to move into the detection directory
+ 1. Use `cd` command to move into the `detection` directory
  2. To detect emotion, use the following command:
     ```bash
     python detector.py image.png
