@@ -26,7 +26,10 @@ Make sure [Python 3](https://www.python.org/downloads/) is already installed.
     ```bash
     python detector.py path/to/image.png
     ```
-    
+<br>
+The images folder contains sample images to try on the detector.
+<br>
+
 # Dataset
 Facial Emotion Recognition [fer2013](https://www.kaggle.com/msambare/fer2013) was used to train the model.
 The data consists of 48x48 pixel grayscale images of faces and has classified 7 emotions (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
