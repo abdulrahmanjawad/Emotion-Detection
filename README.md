@@ -20,9 +20,8 @@ Make sure [Python 3](https://www.python.org/downloads/) is already installed.
  1. Use `cd` command to move into the `detection` directory
  2. To detect emotion, use the following command:
     ```bash
-    python detector.py image.png
+    python detector.py path/to/image.png
     ```
-    Where, `image.png` is the image passed to the detector
     
 # Dataset
 Facial Emotion Recognition [fer2013](https://www.kaggle.com/msambare/fer2013) was used to train the model.
