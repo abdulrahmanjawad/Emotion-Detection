@@ -1,5 +1,5 @@
 # Emotion Detection
-An emotion detection CNN model created using TensorFlow that can classify 7 emotions from facial expression images.
+An emotion detection CNN model created using TensorFlow that can classify 7 emotions from facial expressions.
 
 # Getting Started
 Make sure [Python 3](https://www.python.org/downloads/) is already installed.
